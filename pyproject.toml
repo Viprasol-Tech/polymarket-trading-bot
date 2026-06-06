@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "polymarket-trading-bot"
-version = "0.1.0"
+version = "0.2.0"
 description = "Polymarket prediction-market trading bot — edge, arbitrage and Kelly sizing for binary markets. By Viprasol Tech."
 readme = "README.md"
 requires-python = ">=3.11"
